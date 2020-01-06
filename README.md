@@ -7,7 +7,7 @@ Tracks the chat on https://jstris.jezevec10.com/ in the default room. Also uses 
 
 ### Dependencies
 
-* Python 3.x
+* Python 3.6+
 * Selenium
 * win10toast (for notifications)
 
